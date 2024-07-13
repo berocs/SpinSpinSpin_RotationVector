@@ -1,2 +1,2 @@
 # SpinSpinSpin
-Simulation for Unstable Free Rotation of a Rigid Body.
+MATLAB Simulation for Unstable Free Rotation of a Rigid Body.

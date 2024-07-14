@@ -63,14 +63,15 @@ CONTENTS:
              October-December, 1993      
              malcolmdshuster.com/Pub_1993h_J_Repsurv_scan.pdf
 
-    - [ 3 ] "The Bizarre Behavior of Rotating Bodies -
-            The Dzhanibekov Effect",
-            Derek Alexander Muller
-            YouTube channel Veritasium
-            Spinning objects have strange instabilities known as
-            "The Dzhanibekov Effect" or "Tennis Racket Theorem" -
-            this video offers an intuitive explanation.
+    - [ 3 ] "The Bizarre Behavior of Rotating Bodies -    - 
+            The Dzhanibekov Effect",      
+            Derek Alexander Muller      
+            YouTube channel Veritasium      
+            Spinning objects have strange instabilities known as      
+            "The Dzhanibekov Effect" or "Tennis Racket Theorem" -      
+            this video offers an intuitive explanation.      
             https://www.youtube.com/watch?v=1VPfZ_XzisU
+      
 
     
 

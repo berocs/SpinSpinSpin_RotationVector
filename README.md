@@ -12,7 +12,7 @@ CONTENTS:
   MATLAB source code file for non-real time solution of Ordinary Differential Equations (ODEs).
 - generateInertialResults.m
 
- MATLAB source code file to convert state vector solutions at each time sample from body coordinates to inertial coordinates.
+  MATLAB source code file to convert state vector solutions at each time sample from body coordinates to inertial coordinates.
 - generatePlots2D.m
 
   MATLAB source code file to generate 2D plots.

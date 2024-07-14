@@ -8,6 +8,13 @@ NOTE(s):
   - A rotation vector is a one dimensional row or column vector of length three.
   - The norm of the rotation vector is the rotation angle.
   - The normalized rotation vector is a 3D unit vector which serves as the rotation axis.
+- Ordinary Differential Equations (ODEs) are solved using the  Matlab "ode45" function to apply the Dorman-Prince 4(5) explicit embedded variable time step Runge-Kutta method.
+- State Vector Components:
+  - State Vector components 1, 2 and 3 are the "rotation vector".
+  - State Vector components 4, 5 and 6 are the angular velocity vector.
+- Time rate of change of the rotation vector:
+  - The time rate of change of the rotation vector is not the angular velocity vector.
+  - To determine the time rate of change of the rotation  vector, use Equation (42) on Page 265 of Reference [ 1 ].
 
 CONTENTS:
 

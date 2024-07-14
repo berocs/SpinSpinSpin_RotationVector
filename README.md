@@ -52,8 +52,7 @@ CONTENTS:
 
 REFERENCE(s):
     
-    - [ 1 ]
-    "The Kinematic Equation for the Rotation Vector",      
+    - [ 1 ]  "The Kinematic Equation for the Rotation Vector",      
               Malcolm D. Shuster,      
               IEEE Transactions on Aerospace and Electronic Systems,      
               Vol. 29, No. 1, pp. 263 - 267,      

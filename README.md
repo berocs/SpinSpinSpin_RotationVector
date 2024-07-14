@@ -15,8 +15,9 @@ NOTE(s):
 - Time rate of change of the rotation vector:
   - The time rate of change of the rotation vector is not the angular velocity vector.
   - To determine the time rate of change of the rotation  vector, use Equation (42) on Page 265 of Reference [ 1 ].
-- Note that the 2D plots of inertial angular momentum quantities reveal constant inertial angular momentum over time as expected for free rotation.
-- Note that the 2D plot of rotational kinetic energy reveals that this energy is constant over time as expected for free rotation.
+- Note that the 2D plots of inertial angular momentum quantities reveal the constant nature of the inertial angular momentum over time as expected for free rotation.
+- Note that the 2D plot of rotational kinetic energy reveals the constant nature of this energy is constant over time as expected for free rotation.
+- Note that the 3D animation video reveals the constant nature of the anguular momentum vector over time as expected for free rotation.
 
 CONTENTS:
 

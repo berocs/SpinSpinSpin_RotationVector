@@ -47,7 +47,8 @@ CONTENTS:
   Directory of utility MATLAB source code files.
 
 - nonRealTimeAnimationPartialPlayBackMovie.avi
-    A non-real time 3D animation of a partial results play back AVI movie file.  
+
+  A non-real time 3D animation of a partial results play back AVI movie file.  
 
   - REFERENCE(s):
     

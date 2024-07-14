@@ -48,12 +48,12 @@ CONTENTS:
 
   - REFERENCE(s):
     
-    - [ 1 ] "The Kinematic Equation for the Rotation Vector",      
-                Malcolm D. Shuster,      
-                IEEE Transactions on Aerospace and Electronic Systems,      
-                Vol. 29, No. 1, pp. 263 - 267,      
-                January 1993      
-                malcolmdshuster.com/Pub_1993c_J_RotVec_IEEE.pdf
+    - [ 1 ]  "The Kinematic Equation for the Rotation Vector",      
+              Malcolm D. Shuster,      
+              IEEE Transactions on Aerospace and Electronic Systems,      
+              Vol. 29, No. 1, pp. 263 - 267,      
+              January 1993      
+              malcolmdshuster.com/Pub_1993c_J_RotVec_IEEE.pdf
 
     - [ 2 ] "A Survey of Attitude Representations",
              Malcolm D. Shuster,

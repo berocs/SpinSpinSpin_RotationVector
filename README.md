@@ -50,7 +50,7 @@ CONTENTS:
 
   A non-real time 3D animation of a partial results play back AVI movie file.  
 
-- REFERENCE(s):
+REFERENCE(s):
     
     - [ 1 ]
     "The Kinematic Equation for the Rotation Vector",      

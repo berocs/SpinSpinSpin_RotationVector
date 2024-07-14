@@ -59,6 +59,7 @@ REFERENCE(s):
               Vol. 29, No. 1, pp. 263 - 267,      
               January 1993      
               malcolmdshuster.com/Pub_1993c_J_RotVec_IEEE.pdf
+              
 
     - [ 2 ] "A Survey of Attitude Representations",
              Malcolm D. Shuster,      
@@ -66,6 +67,7 @@ REFERENCE(s):
              Vol. 41, No. 4, pp. 430 - 517,      
              October-December, 1993      
              malcolmdshuster.com/Pub_1993h_J_Repsurv_scan.pdf
+             
 
     - [ 3 ] "The Bizarre Behavior of Rotating Bodies -    - 
             The Dzhanibekov Effect",      
@@ -75,16 +77,22 @@ REFERENCE(s):
             "The Dzhanibekov Effect" or "Tennis Racket Theorem" -      
             this video offers an intuitive explanation.      
             https://www.youtube.com/watch?v=1VPfZ_XzisU
+            
       
     - [ 4 ] Elements of the following were used to help create this project:
       
-      - [ 4.1 ]  https://github.com/alaricgregoire/EulerFreeBody       
+      - [ 4.1 ]  https://github.com/alaricgregoire/EulerFreeBody
+      
                  www.mathworks.com/matlabcentral/fileexchange/75265-euler-free-body-motion
+                 
 
-      - [ 4.2 ]  https://github.com/phymhan/matlab-axis-label-alignment            
+      - [ 4.2 ]  https://github.com/phymhan/matlab-axis-label-alignment
+      
                  www.mathworks.com/matlabcentral/fileexchange/49542-phymhan-matlab-axis-label-alignment
+                 
 
       - [ 4.3 ]  www.mathworks.com/matlabcentral/fileexchange/25372-marrow3-m-easy-to-use-3d-arrow
+      
 
 
     

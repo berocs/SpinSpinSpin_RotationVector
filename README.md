@@ -46,3 +46,20 @@ CONTENTS:
 
   Directory of utility MATLAB source code files.
 
+  - REFERENCE(s):
+    
+    - [ 1 ] "The Kinematic Equation for the Rotation Vector",
+            Malcolm D. Shuster,
+            IEEE Transactions on Aerospace and Electronic Systems,
+            Vol. 29, No. 1, pp. 263 - 267,
+            January 1993
+            malcolmdshuster.com/Pub_1993c_J_RotVec_IEEE.pdf
+
+    - [ 2 ] "A Survey of Attitude Representations",
+             Malcolm D. Shuster,
+             The Journal of the Astronautical Sciences,
+             Vol. 41, No. 4, pp. 430 - 517,
+             October-December, 1993
+             malcolmdshuster.com/Pub_1993h_J_Repsurv_scan.pdf
+    
+

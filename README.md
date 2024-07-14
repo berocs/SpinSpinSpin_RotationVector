@@ -2,6 +2,13 @@
 
 A Simple MATLAB Simulation for Unstable Free Rotation of a Rigid Body.
 
+NOTE(s):
+- Rotating object kinematics is "rotation vector" based.
+- Rotation Vector Definition:
+  - A rotation vector is a one dimensional row or column vector of length three.
+  - The norm of the rotation vector is the rotation angle.
+  - The normalized rotation vector is a 3D unit vector which serves as the rotation axis.
+
 CONTENTS:
 
 - freeUnstableRigidBodyRotationDemonstration.m

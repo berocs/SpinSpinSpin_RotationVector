@@ -5,7 +5,8 @@ A Simple MATLAB Simulation for Unstable Free Rotation of a Rigid Body.
 CONTENTS:
 
 - freeUnstableRigidBodyRotationDemonstration.m
-    MATLAB source code file for top level simulation function.
+
+  MATLAB source code file for top level simulation function.
 - generateSolutionsForFreeRotationRigidBodyKinematics.m
     MATLAB source code file for non-real time solution of Ordinary Differential Equations (ODEs).
 - generateInertialResults.m

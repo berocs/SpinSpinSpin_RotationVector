@@ -75,15 +75,12 @@ CONTENTS:
     - [ 4 ] Elements of the following were used to help create this project:
       
       - [ 4.1 ]  https://github.com/alaricgregoire/EulerFreeBody       
-                    www.mathworks.com/matlabcentral/fileexchange/        
-                      75265-euler-free-body-motion
+                 www.mathworks.com/matlabcentral/fileexchange/75265-euler-free-body-motion
 
       - [ 4.2 ]  github.com/phymhan/matlab-axis-label-alignment        
-                    www.mathworks.com/matlabcentral/fileexchange/        
-                      49542-phymhan-matlab-axis-label-alignment
+                 www.mathworks.com/matlabcentral/fileexchange/49542-phymhan-matlab-axis-label-alignment
 
-      - [ 4.3 ]  www.mathworks.com/matlabcentral/fileexchange/        
-                      25372-marrow3-m-easy-to-use-3d-arrow
+      - [ 4.3 ]  www.mathworks.com/matlabcentral/fileexchange/25372-marrow3-m-easy-to-use-3d-arrow
 
 
     

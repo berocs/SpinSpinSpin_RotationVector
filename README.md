@@ -87,15 +87,11 @@ REFERENCE(s):
       
     - [ 4 ] Elements of the following were used to help create this project:
       
-        [ 4.1 ]  https://github.com/alaricgregoire/EulerFreeBody      
-                 https://www.mathworks.com/matlabcentral/fileexchange/75265-euler-free-body-motion
+        [ 4.1 ]  Gatech AE (2024). Euler Free Body Motion (https://github.com/alaricgregoire/EulerFreeBody/releases/tag/v1.0.0), GitHub. Retrieved July 15, 2024
+        
+        [ 4.2 ]   Ligong Han (2024). phymhan/matlab-axis-label-alignment (https://github.com/phymhan/matlab-axis-label-alignment), GitHub. Retrieved July 15, 2024. 
                  
-
-        [ 4.2 ]  https://github.com/phymhan/matlab-axis-label-alignment      
-                 https://www.mathworks.com/matlabcentral/fileexchange/49542-phymhan-matlab-axis-label-alignment
-                 
-
-        [ 4.3 ]  https://www.mathworks.com/matlabcentral/fileexchange/25372-marrow3-m-easy-to-use-3d-arrow
+        [ 4.3 ]   Georg Stillfried (2024). mArrow3.m - easy-to-use 3D arrow (https://www.mathworks.com/matlabcentral/fileexchange/25372-marrow3-m-easy-to-use-3d-arrow), MATLAB Central File Exchange. Retrieved July 15, 2024. 
       
 
 

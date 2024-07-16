@@ -49,6 +49,7 @@ CONTENTS:
 
   Directory of utility MATLAB source code files.
 
+EXAMPLES:
 - nonRealTimeAnimationPartialPlayBackMovie.avi
 
   A non-real time 3D animation of a partial results play back AVI movie file.

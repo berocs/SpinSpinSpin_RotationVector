@@ -22,7 +22,7 @@ NOTE(s):
       - Rectangular block dimensions determined by principal components of moments of inertia.
       - Spin will be about the rectangular block axis of intermediate length.
 - Time rate of change of the rotation vector:
-  - The time rate of change of the rotation vector is not the angular velocity vector.
+  - **The time rate of change of the rotation vector is not the angular velocity vector**.
   - To determine the time rate of change of the rotation  vector, use **Equation (42) on Page 265 of Reference [ 1 ]**.
 - Note that the 2D plots of inertial angular momentum quantities reveal the constant nature of the inertial angular momentum over time as expected for free rotation.
   - Change is within 10<sup>-13</sup>.

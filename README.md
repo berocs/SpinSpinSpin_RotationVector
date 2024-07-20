@@ -15,9 +15,9 @@ NOTE(s):
   - State Vector components 4, 5 and 6 are the angular velocity vector.
   - Initial Conditions:
     - Rotation Vector:  [ 1.0, 0.0, 0.0 ].
-      1 [radian] (57.3 [degrees]) about the body X axis.
+      - 1 [radian] (57.3 [degrees]) rotation about the body X axis.
     - Angular Velocity: [  0.10;  0.00001;  0.0 ] [radians/second]
-      Spin about body X axis with a small spin about the body Y axis.
+      - Spin about body X axis with a small spin about the body Y axis.
     - Principal components of moments of inertia:  [  4.0,   1.0,      9.0 ]
       - Rectangular block dimensions determined by principal components of moments of inertia.
       - Spin will be about the rectangular block axis of intermediate length.

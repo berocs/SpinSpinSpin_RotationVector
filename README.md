@@ -9,7 +9,7 @@ NOTE(s):
   - The norm of the rotation vector is the rotation angle.
   - The normalized rotation vector is a 3D unit vector which serves as the rotation axis.
 - Ordinary Differential Equations (ODEs) are solved using the  Matlab "ode45" function to apply the Dorman-Prince 4(5) explicit embedded adaptive time step Runge-Kutta method.
-  - Error limits in Matlab "ode45" function set to 10<sup>-13</sup>,
+  - Error limits in Matlab "ode45" function set to 10<sup>-13</sup>.
 - State Vector Components:
   - State Vector components 1, 2 and 3 are the "rotation vector".
   - State Vector components 4, 5 and 6 are the angular velocity vector.
@@ -17,9 +17,9 @@ NOTE(s):
   - The time rate of change of the rotation vector is not the angular velocity vector.
   - To determine the time rate of change of the rotation  vector, use Equation (42) on Page 265 of Reference [ 1 ].
 - Note that the 2D plots of inertial angular momentum quantities reveal the constant nature of the inertial angular momentum over time as expected for free rotation.
-  - Change is within 0.0000000000001.
+  - Change is within 10<sup>-13</sup>.
 - Note that the 2D plot of rotational kinetic energy reveals the constant nature of this energy over time as expected for free rotation.
-  - Change is within 0.0000000000001.
+  - Change is within 10<sup>-13</sup>.
 - Note that the 3D animation video reveals the constant nature of the angular momentum vector over time as expected for free rotation.
 
 CONTENTS:

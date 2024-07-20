@@ -9,7 +9,7 @@ NOTE(s):
   - The norm of the rotation vector is the rotation angle.
   - The normalized rotation vector is a 3D unit vector which serves as the rotation axis.
 - Ordinary Differential Equations (ODEs) are solved using the  Matlab "ode45" function to apply the Dorman-Prince 4(5) explicit embedded adaptive time step Runge-Kutta method.
-  - Error limits in Matlab "ode45" function set to 0.0000000000001.
+  - Error limits in Matlab "ode45" function set to 10<sup>-13</sup>,
 - State Vector Components:
   - State Vector components 1, 2 and 3 are the "rotation vector".
   - State Vector components 4, 5 and 6 are the angular velocity vector.

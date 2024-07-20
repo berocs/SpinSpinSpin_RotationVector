@@ -14,11 +14,11 @@ NOTE(s):
   - State Vector components 1, 2 and 3 are the "rotation vector".
   - State Vector components 4, 5 and 6 are the angular velocity vector.
   - Initial Conditions:
-    - Rotation Vector:  [ 1.0, 0.0, 0.0 ].
+    - Rotation Vector:  [ 1.0; 0.0; 0.0 ].
       - 1 [radian] (57.3 [degrees]) rotation about the body X axis.
     - Angular Velocity: [  0.10;  0.00001;  0.0 ] [radians/second]
       - Spin about body X axis with a small spin about the body Y axis.
-    - Principal components of moments of inertia:  [  4.0,   1.0,      9.0 ]
+    - Principal components of moments of inertia:  [  4.0;   1.0;      9.0 ]
       - Rectangular block dimensions determined by principal components of moments of inertia.
       - Spin will be about the rectangular block axis of intermediate length.
 - Time rate of change of the rotation vector:
@@ -29,6 +29,8 @@ NOTE(s):
 - Note that the 2D plot of rotational kinetic energy reveals the constant nature of this energy over time as expected for free rotation.
   - Change is within 10<sup>-13</sup>.
 - Note that the 3D animation video reveals the constant nature of the angular momentum vector over time as expected for free rotation.
+  - Simulation generates a rotation vector solution every millisecond for 1000 second for a total of one million rotation vector solutions.
+  - Simulation creates a sequence 3D animation frames, one frame for every 200 th rotation vector solution.  Simulation animation frames are at 5 Hertz rate.
 
 CONTENTS:
 

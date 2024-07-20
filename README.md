@@ -29,7 +29,7 @@ NOTE(s):
 - Note that the 2D plot of rotational kinetic energy reveals the constant nature of this energy over time as expected for free rotation.
   - Change is within 10<sup>-13</sup>.
 - Note that the 3D animation video reveals the constant nature of the angular momentum vector over time as expected for free rotation.
-  - Simulation generates a rotation vector solution every millisecond for 1000 second for a total of one million rotation vector solutions.
+  - Simulation generates a rotation vector solution every millisecond for 1000 seconds generating a total of one million rotation vector solutions.
   - Simulation creates a sequence 3D animation frames, one frame for every 200 th rotation vector solution.  Simulation animation frames are at 5 Hertz rate.
 
 CONTENTS:

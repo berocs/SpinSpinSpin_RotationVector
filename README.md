@@ -3,8 +3,8 @@
 A Simple MATLAB Simulation for Unstable Free Rotation of a Rigid Body.
 
 NOTE(s):
-- Rotating object kinematics is "rotation vector" based.
-- The projects "SpinSpinSpin_Quaternion_v1" and "SpinSpinSpin_Quaternion_v2" are similar but Quaternion bases.
+- Rotating object kinematics is "**Rotation Vector**" based.
+- The projects "**SpinSpinSpin_Quaternion_v1**" and "**SpinSpinSpin_Quaternion_v2**" are similar but **Quaternion** based.
 - Rotation Vector Definition:
   - A rotation vector is a one dimensional row or column vector of length three.
   - The norm of the rotation vector is the rotation angle.

@@ -794,7 +794,7 @@ moveObject                                                                   ...
                );
     %---------------------------------------------------------------------------
     %
-    %  Inoke the transform:
+    %  Invoke the transform:
     %
     %    [ 1 ] From non-inertial body coordinates.
     %    [ 2 ] To       inertial      coordinates.

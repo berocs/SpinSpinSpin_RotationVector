@@ -2,6 +2,8 @@
 
 A Simple MATLAB Simulation for Unstable Free Rotation of a Rigid Body.
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=berocs/SpinSpinSpin_RotationVector)
+
 NOTE(s):
 - Rotating object kinematics is "**Rotation Vector**" based.
 - The projects "**SpinSpinSpin_Quaternion_v1**" and "**SpinSpinSpin_Quaternion_v2**" are similar but **Quaternion** based.

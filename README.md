@@ -33,7 +33,7 @@ NOTE(s):
   - Change is within 10<sup>-13</sup>.
 - Note that the 3D animation video reveals the constant nature of the angular momentum vector over time as expected for free rotation.
   - Simulation generates a rotation vector solution every millisecond for 1000 seconds generating a total of one million rotation vector solutions.
-  - Simulation creates a sequence of 3D animation frames, one 3D animation frame for every 200 th rotation vector solution.  3D simulation animation frames are at 5 Hertz rate.
+  - Simulation creates a sequence of 3D animation frames, one 3D animation frame for every 200 th rotation vector solution.  3D simulation animation frames are at 5 [frames/second] rate.
 
 CONTENTS:
 

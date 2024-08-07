@@ -110,9 +110,6 @@ REFERENCE(s):
                  
         [ 4.3 ]   Georg Stillfried (2024). mArrow3.m - easy-to-use 3D arrow (https://www.mathworks.com/matlabcentral/fileexchange/25372-marrow3-m-easy-to-use-3d-arrow), MATLAB Central File Exchange. Retrieved July 15, 2024. 
       
-<iframe width="1198" height="674" src="https://www.youtube.com/embed/1VPfZ_XzisU" title="The Bizarre Behavior of Rotating Bodies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
-    
+https://youtu.be/1VPfZ_XzisU
 

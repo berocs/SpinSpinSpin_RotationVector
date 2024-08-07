@@ -110,4 +110,5 @@ REFERENCE(s):
                  
         [ 4.3 ]   Georg Stillfried (2024). mArrow3.m - easy-to-use 3D arrow (https://www.mathworks.com/matlabcentral/fileexchange/25372-marrow3-m-easy-to-use-3d-arrow), MATLAB Central File Exchange. Retrieved July 15, 2024. 
 
-[![Watch the video](https://www.youtube.com/watch?v=1VPfZ_XzisU)]
+
+[![Watch the video](https://img.youtube.com/vi/_1VPfZ_XzisU/0.jpg)](https://www.youtube.com/watch?v=1VPfZ_XzisU)
